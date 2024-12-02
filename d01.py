@@ -4,12 +4,6 @@ Day 01 of Advent of Code 2024
 
 from typing import List
 
-with open("./d01_dummy.txt", encoding="utf-8") as d, open(
-    "./d01_full.txt", encoding="utf-8"
-) as f:
-    d_input = _standard_parse(d.read())
-    f_input = _standard_parse(f.read())
-
 
 def _standard_parse(puzzle_input: str) -> List[List[int, int]]:
     puzzle_input = puzzle_input.split("\n")
@@ -44,6 +38,11 @@ def solve_p2(puzzle_input: List[List[int, int]]) -> int:
 
 
 if __name__ == "__main__":
+    with open("./d01_dummy.txt", encoding="utf-8") as d, open(
+        "./d01_full.txt", encoding="utf-8"
+    ) as f:
+        d_input = _standard_parse(d.read())
+        f_input = _standard_parse(f.read())
     print(f"Part 1 dummy input solution {solve_p1(d_input)}")
     print(f"Part 1 full input solution {solve_p1(f_input)}")
     print(f"Part 2 dummy input solution {solve_p2(d_input)}")
