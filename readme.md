@@ -9,3 +9,4 @@ Total :star:'s = ***6***
 | Day 01 | :star::star: |  |
 | Day 02 | :star::star: |  |
 | Day 03 | :star::star: |  |
+| Day 04 | :star::star: |  |
