@@ -4,10 +4,11 @@
 ## Current Stars Earned
 Total :star:'s = ***10***
 
-| Puzzle | Python | R |
-|--------|--------|---|
-| Day 01 | :star::star: | :star::star: |
-| Day 02 | :star::star: | :star::star: |
-| Day 03 | :star::star: | :star::star: |
-| Day 04 | :star::star: |  |
-| Day 05 | :star::star: |  |
+| Puzzle | Python | R | Notes |
+|--------|--------|---|-------|
+| Day 01 | :star::star: | :star::star: |  |
+| Day 02 | :star::star: | :star::star: |  |
+| Day 03 | :star::star: | :star::star: |  |
+| Day 04 | :star::star: |  |  |
+| Day 05 | :star::star: |  |  |
+| Day 06 | :star::star: |  | Part 2 python solution is a little slow |
