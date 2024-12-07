@@ -12,3 +12,4 @@ Total :star:'s = ***12***
 | Day 04 | :star::star: |  |  |
 | Day 05 | :star::star: |  |  |
 | Day 06 | :star::star: |  | Part 2 python solution is a little slow |
+| Day 07 | :star::star: |  |  |
