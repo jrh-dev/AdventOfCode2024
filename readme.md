@@ -2,7 +2,7 @@
 [Advent of Code](https://adventofcode.com/) is a series of programming puzzles released in December each year that can be solved in any programming language. Correctly solving all of the puzzles earns 50 stars.
 
 ## Current Stars Earned
-Total :star:'s = ***14***
+Total :star:'s = ***16***
 
 | Puzzle | Python | R | Notes |
 |--------|--------|---|-------|
@@ -13,3 +13,4 @@ Total :star:'s = ***14***
 | Day 05 | :star::star: |  |  |
 | Day 06 | :star::star: |  | Part 2 python solution is a little slow |
 | Day 07 | :star::star: |  |  |
+| Day 08 | :star::star: |  |  |
