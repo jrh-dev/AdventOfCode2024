@@ -14,3 +14,5 @@ Total :star:'s = ***16***
 | Day 06 | :star::star: |  | Part 2 python solution is a little slow |
 | Day 07 | :star::star: |  |  |
 | Day 08 | :star::star: |  |  |
+| Day 09 | :star::star: |  | Solutions not yet in repo as completed on diferent machines |
+| Day 10 | :star::star: |  |  |
