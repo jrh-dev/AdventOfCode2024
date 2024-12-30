@@ -1,3 +1,5 @@
 .venv
 *full*
 launch.json
+.vscode
+*txt*
