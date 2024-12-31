@@ -19,3 +19,4 @@ Total :star:'s = ***24***
 | Day 11 | :star::star: |  |  |
 | Day 12 | :star::star: |  |  |
 | Day 13 | :star::star: |  |  |
+| Day 14 | :star::star: |  | Identified the xmas tree by looking for times when the stddev of x and y axis dropped noteably. A stddev of both <25 worked for me, but other inputs might need a small tweak.|
